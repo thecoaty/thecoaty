@@ -22,6 +22,7 @@
 #### Back-End:
 
 <p>
+  <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </p>
 
