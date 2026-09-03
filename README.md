@@ -40,7 +40,7 @@
 <hr>
 
   <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thecoaty&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thecoaty&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=thecoaty&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thecoaty&layout=compact&theme=tokyonight"/>
 </div>
 
